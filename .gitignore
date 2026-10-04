@@ -1,0 +1,10 @@
+# Operating system and Office temporary files
+Thumbs.db
+Desktop.ini
+.DS_Store
+~$*.docx
+~$*.pptx
+
+# Local editor settings
+.vscode/
+.idea/
